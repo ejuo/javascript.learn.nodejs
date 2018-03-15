@@ -1,0 +1,10 @@
+{"0":"G","1":"E","2":"T","level":"info","message":"Got request"}
+{"message":"Echo: TEST","level":"debug"}
+{"0":"G","1":"E","2":"T","level":"info","message":"Got request"}
+{"message":"Unknown URL","level":"error"}
+{"0":"G","1":"E","2":"T","level":"info","message":"Got request"}
+{"message":"Echo: TEST","level":"debug"}
+{"0":"G","1":"E","2":"T","level":"info","message":"Got request"}
+{"message":"Echo: TEST9","level":"debug"}
+{"0":"G","1":"E","2":"T","level":"info","message":"Got request"}
+{"message":"Echo: TEST9","level":"debug"}
